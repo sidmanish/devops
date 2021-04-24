@@ -1,1 +1,1 @@
-"this is second file -fileB version1" 
+"this is second file -fileB version2" 
